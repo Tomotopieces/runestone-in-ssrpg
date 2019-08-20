@@ -1,4 +1,4 @@
-# 符文教程
+# Stone Story RPG符文教程
 **符文是Stone Story RPG中为装备添加特殊属性的一种道具。**
 
 - 符文表
