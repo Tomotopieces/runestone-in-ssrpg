@@ -1,7 +1,7 @@
 # Stone Story RPG Rune Tutorial
 **Rune is a item that adds special attributes to the equipment in Stone Story RPG.**
 
-**This tutorial based on version beta1.6~1.8**
+**This tutorial based on version `beta1.6~1.8`**
 
 
 ## Rune List
