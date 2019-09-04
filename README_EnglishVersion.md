@@ -15,7 +15,7 @@ Fire`φ` | Burn`Ff` | Ice`❄` | Mine | Bronze Guardian | Aether`＊`
 Ice`❄` | Chill`Ii` | Poison`∞` | Icy | Hrímnir | Fire`φ`
 Poison`∞` | Weak`Pp` | Vigor`❤` | Temple | Nagaraja | Ice`❄`
 
-*Note1: All locations can get stone wand.*
+*Note1: can get stone wand in all locations.*
 
 *Note2: Uppercase affixes means active effect (affect when attacking foes), lowercase affixes means passive effect (affect when attacked by foes.*
 
