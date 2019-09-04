@@ -5,7 +5,7 @@
 
 
 ## Rune List
-Rune`sign` | Special effect`Afixes` | Overcome | Location | Boss | Weakness
+Rune`sign` | Special effect`Affixes` | Overcome | Location | Boss | Weakness
 :-: | :-: | :-: | :-: | :-: | :-:
 Stone`o` | Critical | Null | Valley | Xyloalgia | Null
 Poison`∞` | Weak`Pp` | Vigor`❤` | Cave | Bolesh | Ice`❄`
