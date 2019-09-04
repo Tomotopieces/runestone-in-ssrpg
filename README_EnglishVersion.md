@@ -27,7 +27,7 @@ Poison`∞` | Weak`Pp` | Vigor`❤` | Temple | Nagaraja | Ice`❄`
 affixes | Special Effect
 :-: | :-:
 Aa | add armor when encounter overcome foes
-Dd | make more damage to overcome foes
+Dd | make more damage on overcome foes
 
 
 
