@@ -5,6 +5,7 @@
 
 
 ## Rune List
+#### Special Affixes
 Rune`sign` | Special effect`Affixes` | Overcome | Location | Boss | Weakness
 :-: | :-: | :-: | :-: | :-: | :-:
 Stone`o` | Critical | Null | Valley | Xyloalgia | Null
