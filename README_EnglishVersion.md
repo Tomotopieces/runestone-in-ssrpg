@@ -17,7 +17,7 @@ Poison`∞` | Weak`Pp` | Vigor`❤` | Temple | Nagaraja | Ice`❄`
 
 *Note1: can get stone wand in all locations.*
 
-*Note2: Uppercase affixes means active effect (affect when attacking foes), lowercase affixes means passive effect (affect when attacked by foes.*
+*Note2: Uppercase affixes means active effect (affect when attacking foes), lowercase affixes means passive effect (affect when attacked by foes).*
 
 #### overcome relationship
 ![克制关系](https://github.com/Tomotopieces/runestone-in-ssrpg/blob/master/%E5%B1%9E%E6%80%A7%E5%85%8B%E5%88%B6%E5%85%B3%E7%B3%BB.png "克制关系")
