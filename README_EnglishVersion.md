@@ -33,19 +33,19 @@ Dd | make more damage on overcome foes
 
 ## Double Affixes
 Equipment with both general affixes and special affixes.
-> Example1: dP Poison Hammer, make a little more damage to poison foes, and when you attacked foes (not only poison foes), down its damage for a while.
+> Example1: dP Poison Hammer, make a little more damage on poison foes, and when you attack foes (not only poison foes), down its damage for a while.
 
 > Example2：A Aether Hammer, not double affixes equipment, add armor when encounter aether foes.
 
 *Note1: Affixes A or affixes D can't appear in double affixes, in other words, no DL Big Sword.*
 
-*Note2: The first letter of double affixes must be lower case.*
+*Note2: The first letter of double affixes must be lowercase.*
 
 
 ## Check Rune Affixes
-**1.All `Rune` has `Double Affixes`, a general affixes and a special affixes**
+**1.All `Rune`s has `Double Affixes`, a general affixes and a special affixes**
 
-> Example: poison rune has 4 affixes type: dP, dp, aP, ap.
+> Example: Poison rune has 4 affixes type: dP, dp, aP, ap.
 
 Take poison rune as an example, x may be a or d, y may be p or P.
 
@@ -53,27 +53,27 @@ Left | Right | Result
 :-: | :-: | :-:
 ∞ | oStaff | xyStaff
 
+*Note: `Staff`, not wand.*
+
 **2.a and A are mutually exclusive，d and D are mutually exclusive**
 
 Rune with affixes a can't make equipment with affixes A, rune with affixes d can't make equipment with affixes D.
 
 Only rune with affixes a can make equipment with affixes D, only rune with affixes d can make equipment with affixes A.
 
-*Note: `Staff`, not wand.*
-
 ## Control the Affixes
-Both two affixes can mutate by Moondial Stone, or by drpo.
+Both two affixes can mutate by Moondial Stone, or by drop.
 
 *Note: Moondial Stone can appear all reasonable affixes.*
 
 ## Affixes Cover
 When the affixes of the rune made by Fissure Stone is `different from the runes in pack`, new affixes will cover the old type.
-> Example: affixes of poison rune in pack is ap, Break apart a poison Staff with affixes dP, affixes of poison rune in pack will became dP.
+> Example: affixes of poison rune in pack is ap, Break apart a poison Staff with affixes dP, affixes of poison rune in pack will become dP.
 
 ## Fake mutate of Affixes
-When the equipment can't get/compatible current affixes of rune, affixes of the equipment will happen fake mutate, but the affixes of rune have no change.
+When the equipment can't get/compatible current affixes of rune, it will occur fake mutate, but the affixes of rune have no change.
 General affixes will change the letter, special affixes will change to its upper/lower case.
-> Example: Left ap∞rune, Right oSword, Get dP∞Sword, because Sword can't get affixes a and affixes p.
+> Example: Left ap∞rune, Right oSword, Get dP∞Sword, because Sword can't get affixes 'a' and affixes 'p'.
 
 Affixes Compatible List(sS means special affixes)
 
